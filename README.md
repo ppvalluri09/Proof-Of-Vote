@@ -1,2 +1,2 @@
 # Proof-Of-Vote
-# Microsoft Codefundo++
+# Idea for Microsoft Codefundo++
