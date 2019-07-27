@@ -24,16 +24,14 @@
      
      ![Voters](https://user-images.githubusercontent.com/44934630/61799146-2dc0d000-ae48-11e9-8cb0-a749c41fefc0.png)
      
-     We introduce Ballot coins to resolve this issue. Like mentioned before each voter gets his/her stake of Ballot coins, 
-     but the number of Ballot coins each person receives is not only dependent on the people who voted but also on the people 
-     who did not.
+     We introduce Ballot coins to resolve this issue since the number of Ballot coins each person receives is not only dependent on the people who voted but also on the people who did not.
      
      Let's Scale the problem down to 5 people:-
      
      ![Ballot Coin Schema](https://user-images.githubusercontent.com/44934630/61800748-39fa5c80-ae4b-11e9-8634-d763cdcd7769.png)
 
      Since the person 'E' did not vote in the second case the stake of the others who have voted has decreased. So instead
-     of 0.05 Ballot coins (taken arbitrarily in this case) each of the people who voted get only 0.04 beacuse of the person 
+     of 0.05 Ballot coins each of the people who voted get only 0.04 beacuse of the person 
      E. This loss incurred by each person will be larger if the number of people increase. This create a constraint between 
      the people to Vote, because there will be pressure from the society to vote as lack of a few votes can decrease each 
      person's stake. 
